@@ -6,6 +6,9 @@ A system developed to help organizing and managing academic events
 ## 🎯Goal
 Centralize information about events, registrations, and participants on a single platform.
 
+## ⚡Methodology
+Project developed using Scrum and Kanban
+
 ## 🛠️Technologies Used
 - GitHub
 - Jira
